@@ -16,36 +16,9 @@ hide text with dissolve
 
 pause 2.0
 
-# scene bg chambre214 nuit with dissolve
-
-
-
-# LUNDI #
-
-
-
-###############
-# 8h petit dej
-
-
-
-# fin petit dej
-###############
-
-
-
-###############
-# 9h-11h addicto
-
-#__________________________ TODO: 2ème séance addicto, cette fois-ci plus intéressée __________________________#
-# éventuellement : scène très courte, le reste de la journée étant très chargé
-
 "---- TODO: On est lundi, reprise des séances. Mélodie assiste à une 2ème séance d'addicto et demande au Dr. Mignon-Brenet de l'intégrer dans le parcours Addiction. Ce dernier la redirige vers le thérapeute en charge, Mr. Selivo -----"
 
 pause 1.0
-
-# fin addicto
-###############
 
 label oct_21_entretien_mrselivo:
 
@@ -148,16 +121,7 @@ pause 1.0
 
 scene bg black with dissolve
 
-pause 1.0
-
-###############
-# 12h déjeuner
-
-
-# fin déjeuner
-###############
-
-pause 1.0
+pause 2.0
 
 "--- TODO : Mélodie se rend à la thérapie de groupe de 14h -------"
 
@@ -451,15 +415,6 @@ pause 2.0
 
 scene bg black with dissolve
 
-
-
-# fin groupe
-###############
-
-
-
-###############
-# 19h dîner
 
 pause 1.0
 
@@ -887,15 +842,6 @@ scene bg black with dissolve
 pause 2.0
 
 return
-
-###### fin de la journée direct. Le reste sera raconté le lendemain matin, notamment l'achat de littérature.
-
-
-
-# fin réunion AA
-###############
-
-
 
 
 

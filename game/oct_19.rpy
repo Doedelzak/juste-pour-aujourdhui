@@ -16,42 +16,6 @@ hide text with dissolve
 
 pause 2.0
 
-# scene bg chambre214 nuit with dissolve
-
-
-
-# SAMEDI #
-
-
-
-###############
-# 8h petit dej
-
-
-
-# fin petit dej
-###############
-
-
-
-###############
-# 12h déjeuner
-
-
-
-# 13h fin déjeuner
-###############
-
-
-
-###############
-# 14h méditation
-
-#__________________________ TODO: 1ère séance méditation __________________________#
-
-# 15h fin méditation
-###############
-
 label oct_19_visite_soeur:
 
 scene bg salle jour with dissolve
@@ -120,19 +84,6 @@ pause 1.0
 pause 2.0
 
 
-###############
-# 19h dîner
-
-
-
-# 19h fin dîner    
-###############
-
-
-
-
-
-pause 2.0
 
 call oct_21 from _oct_21
 
