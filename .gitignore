@@ -3,4 +3,4 @@
 *.txt
 game/saves/**
 game/cache/**
-game/tl/**
+game/tl/None/**
