@@ -833,6 +833,7 @@ show danielle at center with dissolve
 
 danielle "{i}Que ta volonté soit faite et non la mienne.{/i}"
 
+
 hide danielle with dissolve
 
 pause 2.0
