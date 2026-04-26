@@ -1625,3 +1625,75 @@ style slider_vbox:
 style slider_slider:
     variant "small"
     xsize 900
+
+############################################
+
+screen phone_button:
+    imagebutton:
+        idle "phone_icon_idle.png" 
+        hover "phone_icon_hover.png"
+        selected_idle "phone_icon_hover.png"
+        selected_hover "phone_icon_hover.png"
+        action ToggleScreen('phone', dissolve)
+        xalign 1.0
+
+screen phone:
+    frame:
+        add Solid ("#534b4f")
+        xsize 380
+        ysize 800
+        xalign 0.5
+        yalign 0.5
+
+        vbox:
+            spacing 5
+            hbox:
+                text "[current_day] [current_month]"
+                xalign 0.5
+                yalign 0.5
+                ysize  80
+            hbox:
+                text "\"[compteur_abstinence] jours d'abstinence !\"" size 24
+                xalign 0.5
+                yalign 0.5
+            hbox:
+                add "absti_loli.png"
+                xalign 0.5
+                yalign 0.5
+                ysize 240
+            hbox:
+                spacing 5
+                xalign 0.5
+                yalign 0.5
+                imagebutton:
+                    auto "message_icon_%s.png" 
+                    action ShowMenu('save')
+                    tooltip "Messages"
+                imagebutton:
+                    auto "litterature_icon_%s.png"
+                    action ShowMenu('save')
+                    tooltip "Littérature"
+            hbox:
+                spacing 5
+                xalign 0.5
+                yalign 0.5
+                imagebutton:
+                    auto "save_icon_%s.png" 
+                    action ShowMenu('save')
+                    tooltip "Sauvegarde"
+                imagebutton:
+                    auto "config_icon_%s.png"
+                    action ShowMenu('preferences')
+                    tooltip "Réglages"
+    
+    $ tooltip = GetTooltip()
+
+    if tooltip:
+
+        nearrect:
+            focus "tooltip"
+            prefer_top True
+
+            frame:
+                xalign 0.5
+                text tooltip

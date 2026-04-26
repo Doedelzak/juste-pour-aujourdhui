@@ -1,7 +1,7 @@
 ﻿# Vous pouvez placer le script de votre jeu dans ce fichier.
 
 # Déclarez sous cette ligne les images, avec l'instruction 'image'
-image bg black = "black.png"
+image bg black = "#000000"
 image bg grande salle jour = "grande_salle_jour.png"
 image bg bureau = "bureau.png"
 image bg chambre214 nuit = "chambre214_nuit.png"
@@ -164,6 +164,9 @@ define sabrinachuchote = Character('Sabrina', what_prefix="{size=20}", color="#c
 define toutlemondechuchote = Character('Tout le monde', what_prefix="{size=20}", color="#c8ffc8")
 define corentinchuchote = Character('Corentin', what_prefix="{size=20}", color="#c8ffc8")
 
+
+
+
 # Le jeu commence ici
 label start:
 
@@ -171,6 +174,12 @@ stop music
 stop sound
 stop audio
 scene bg black
+
+$ current_day = "14"
+$ current_month = "octobre"
+$ compteur_abstinence = 120
+
+show screen phone_button
 
 #jump bypassGOTO
 
