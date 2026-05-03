@@ -506,13 +506,13 @@ melodie "La dame là-bas m'a regardé bizarrement.{w} Il faut une autorisation p
 hide melodie
 florine "La dame ?{w} Aaah mais Jeanne ?{w} Non mais t'inquiètes pas, va."
 
-hide florine with dissolveZ
+hide florine with dissolve
 
 "Florine fait de grands signes en direction de Jeanne."
 
 show florine at right with dissolve
 
-florine "HEY JEANNE !{w} Elle c'est {cps=10}MELODIE !{w} {cps=25}C'est {cps=10}MA POTE, {cps=25}ELLE EST {cps=10}NOUVELLE !"
+florine "HEY JEANNE !{w} Elle c'est MELODIE !{w} C'est MA POTE, ELLE EST NOUVELLE !"
 
 hide florine with dissolve
 
@@ -698,10 +698,16 @@ show florine at center with dissolve
 florine "Ah c'est con."
 florine "Pourtant t'as un petit charme et tout !{w} Je suis sûre que tu dois faire des ravages."
 florine "Enfin j'en sais trop rien, moi je préfère les mecs."
+
+hide florine with dissolve
+
 "Elle rigole en me disant cela.{w} Et je me mets à rire aussi."
 "Pour l'instant, j'ai peut-être d'autres chats à fouetter."
 "Mais une fois que je serai sortie d'ici, je reverrai Amélie.{w} A ce moment là, alors..."
 "Enfin on verra." 
+
+show florine at center with dissolve
+
 florine "Oh, il est bientôt 11h.{w} Faut que je décale moi !"
 "11h ?{w} Moi aussi, j'ai promis de me rendre à la séance sur la dépression."
 show melodie at left
@@ -740,10 +746,11 @@ hide jeanne with dissolve
 "J'espère que je ne vais pas finir comme ça."
 "J'espère vraiment."
 
+scene black with dissolve
 
 label oct_16_depression:
 
-pause 3.0
+pause 2.0
 
 play music "01 - Dawn.ogg"
 
