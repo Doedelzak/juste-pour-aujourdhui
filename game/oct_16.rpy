@@ -451,8 +451,9 @@ pause 1.0
 
 scene bg couloir jour with dissolve 
 
-"Dans les couloirs, les autres patients se dirigent en silence vers les différentes salles où les attendent les encadrants.{w} Certains me jettent des coups d'oeil intrigués.{w} J'imagine que c'est habituel avec les nouveaux."
-"Ça me gêne d'attirer l'attention. {w}Mais je ne peux pas juste attendre ici, plantée comme un piquet, jusqu'à l'ouverture de la salle."
+"Dans les couloirs, les autres patients se dirigent en silence vers les différentes salles où les attendent les encadrants.{w} Certains me jettent des coups d'oeil intrigués."
+"Qu'est-ce qu'ils me veulent exactement ?{w} C'est la première fois qu'ils voient une nouvelle ici ?{w} J'ai l'impression d'être la nouvelle attraction."
+"Mais je ne peux pas juste attendre ici, plantée comme un piquet, jusqu'à l'ouverture de la salle."
 "Où est-ce que je pourrais aller ?"
 "Ah !{w} Florine m'avait donné rendez-vous au fumoir !"
 "Elle y est peut-être encore.{w} Je n'ai qu'à trouver où c'est..."
@@ -638,7 +639,8 @@ florine "Ah vas-y il répond !"
 hide florine with dissolve
 
 "L'attention de Florine semble à nouveau absorbée par le téléphone et son interlocuteur."
-"Je me demande vraiment à quoi elle joue.{w} Ca me paraît pas très honnête mais en même temps...{w} Je n'ai jamais été particulièrement douée pour les applis.{w} C'est peut-être comme ça que ça se passe ?"
+"Je me demande vraiment à quoi elle joue.{w} Ca me paraît pas très honnête."
+"Mais bon, elle fait bien ce qu'elle veut après tout.{w} C'est pas vraiment mon problème."
 
 show florine at center with dissolve
 
@@ -653,7 +655,7 @@ hide melodie
 
 hide florine with dissolve
 
-"J'ai toujours un peu peur de parler de ça.{w} On ne sait jamais comment les gens vont réagir.{w} Florine a l'air sympa, mais je la connais à peine."
+"On ne sait jamais comment les gens vont réagir.{w} Florine a l'air sympa, mais je la connais à peine."
 "Mais bon, autant jouer cartes sur table."
 
 show melodie at left
@@ -667,8 +669,7 @@ florine "Ah okay."
 hide florine with dissolve
 
 "Elle replonge dans l'écran de son téléphone."
-"Visiblement, cela ne la perturbe pas plus que ça.{w} Je craignais une réaction négative, mais c'est plutôt une absence totale de réaction."
-"Est-ce que c'est bien ?{w} On va dire que ça me va."
+"Visiblement, cela ne la perturbe pas plus que ça.{w} On va dire que ça me va."
 
 show florine at center with dissolve
 
@@ -733,7 +734,7 @@ hide melodie
 
 hide jeanne with dissolve
 
-"Je crois qu'elle me fait un peu peur.{w} Mais au moins, elle n'a pas l'air méchante."
+"Ça pourrait être pire.{w} Au moins elle ne mord pas."
 "Elle a juste l'air...{w} Vide ?"
 "Peut-être les médicaments ?"
 "J'espère que je ne vais pas finir comme ça."
