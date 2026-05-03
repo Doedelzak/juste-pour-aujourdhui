@@ -57,6 +57,7 @@ image mmenguyen = "woman9.png"
 image danielle = "woman1.png"
 image sabrina = "woman7.png"
 image corentin = "man7.png"
+image jeanne = "woman4.png"
 
 
 # Déclarez les personnages utilisés dans le jeu.
