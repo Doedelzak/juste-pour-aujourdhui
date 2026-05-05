@@ -29,7 +29,7 @@ image elodie = "woman8.png"
 image amanda = "woman5.png"
 image chris = "man1.png"
 image sarah = "woman7.png"
-image mohamed = "man6.png"
+image mohammed = "man6.png"
 image clovis = "man4.png"
 image amelie = "woman9.png"
 image laurent = "man5.png"
@@ -67,7 +67,7 @@ define elodie = Character('Elodie', color="#c8ffc8")
 define amanda = Character('Amanda', color="#c8ffc8")
 define chris = Character('Chris', color="#c8ffc8")
 define sarah = Character('Sarah', color="#c8ffc8")
-define mohamed = Character('Mohamed', color="#c8ffc8")
+define mohammed = Character('mohammed', color="#c8ffc8")
 define clovis = Character('Clovis', color="#c8ffc8")
 define amelie = Character('Amélie', color="#c8ffc8")
 define laurent = Character('Laurent', color="#c8ffc8")
@@ -103,7 +103,7 @@ define nvlelodie = Character('Elodie', kind=nvl, what_prefix="{cps=100}", color=
 define nvlamanda = Character('Amanda', kind=nvl, what_prefix="{cps=100}", color="#c8ffc8")
 define nvlchris = Character('Chris', kind=nvl, what_prefix="{cps=100}", color="#c8ffc8")
 define nvlsarah = Character('Sarah', kind=nvl, what_prefix="{cps=100}", color="#c8ffc8")
-define nvlmohamed = Character('Mohamed', kind=nvl, what_prefix="{cps=100}", color="#c8ffc8")
+define nvlmohammed = Character('mohammed', kind=nvl, what_prefix="{cps=100}", color="#c8ffc8")
 define nvlclovis = Character('Clovis', kind=nvl, what_prefix="{cps=100}", color="#c8ffc8")
 define nvlamelie = Character('Amélie', kind=nvl, what_prefix="{cps=100}", color="#c8ffc8")
 define nvllaurent = Character('Laurent', kind=nvl, what_prefix="{cps=100}", color="#c8ffc8")
@@ -136,7 +136,7 @@ define elodiechuchote = Character('Elodie', what_prefix="{size=20}", color="#c8f
 define amandachuchote = Character('Amanda', what_prefix="{size=20}", color="#c8ffc8")
 define chrischuchote = Character('Chris', what_prefix="{size=20}", color="#c8ffc8")
 define sarahchuchote = Character('Sarah', what_prefix="{size=20}", color="#c8ffc8")
-define mohamedchuchote = Character('Mohamed', what_prefix="{size=20}", color="#c8ffc8")
+define mohammedchuchote = Character('mohammed', what_prefix="{size=20}", color="#c8ffc8")
 define clovischuchote = Character('Clovis', what_prefix="{size=20}", color="#c8ffc8")
 define ameliechuchote = Character('Aurélie', what_prefix="{size=20}", color="#c8ffc8")
 define laurentchuchote = Character('Laurent', what_prefix="{size=20}", color="#c8ffc8")
