@@ -182,10 +182,64 @@ $ compteur_abstinence = 120
 
 show screen phone_button
 
-#jump bypassGOTO
+#jump bypassTestScreens
 
 python:
-    testString = renpy.input("Go to", length=32)
+    testString = renpy.input("Se téléporter vers une scène ? (Exemple : \"A1S01\" pour aller à acte 1 scene 1)", length=32)
+    testString = testString.lower()
+    testString = testString.replace(" ", "")
+
+    if not testString:
+         testString = "intro"
+
+if testString == "a0s00":
+        jump a0s00
+
+if testString == "a0s01":
+        jump a0s01
+
+if testString == "a0s02":
+        jump a0s02
+
+if testString == "a1s01":
+        jump a1s01
+
+if testString == "a1s02":
+        jump a1s02
+
+if testString == "a1s03":
+        jump a1s03
+
+if testString == "a1s04":
+        jump a1s04
+
+if testString == "a1s05":
+        jump a1s05
+
+if testString == "a1s06":
+        jump a1s06
+
+if testString == "a1s07":
+        jump a1s07
+
+if testString == "a1s08":
+        jump a1s08
+
+if testString == "a1s09":
+        jump a1s09
+
+if testString == "a1s10":
+        jump a1s10
+
+if testString == "a1s11":
+        jump a1s11
+
+if testString == "a1s12":
+        jump a1s12
+
+
+python:
+    testString = renpy.input("Se téléporter vers un jour ? (Exemple : \"16OCT\" pour aller au 16 octobre)", length=32)
     testString = testString.lower()
     testString = testString.replace(" ", "")
 
@@ -417,8 +471,8 @@ if testString == "31jan":
 
 
 
-label bypassGOTO:
+label bypassTestScreens:
 
-call intro from _intro
+call a0s00 from _a0s00
 
 return
