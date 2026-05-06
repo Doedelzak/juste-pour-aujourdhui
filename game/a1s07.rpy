@@ -5,6 +5,10 @@ label a1s07:
 
 pause 1.0
 
+play music "she's asleep (voice free).ogg"
+
+pause 1.0
+
 scene bg grande salle jour with dissolve
 
 pause 1.0

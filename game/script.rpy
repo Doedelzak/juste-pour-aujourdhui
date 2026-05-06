@@ -6,7 +6,9 @@ image bg grande salle jour = "grande_salle_jour.png"
 image bg bureau = "bureau.png"
 image bg chambre214 nuit = "chambre214_nuit.png"
 image bg appartement melodie = "appartement_melodie.png"
-image bg cour clinique jour = "cour_clinique_jour.png"
+image bg appartement melodie = "appartement_melodie.png"
+image bg devant portail clinique soir = "devant_portail_clinique_soir.png"
+image bg cour clinique soir = "cour_clinique_soir.png"
 image bg devant cantine nuit = "devant_cantine_nuit.png"
 image bg cantine nuit = "cantine_nuit.png"
 image bg bureau jovia jour = "bureau_jovia_jour.png"
@@ -58,6 +60,7 @@ image danielle = "woman1.png"
 image sabrina = "woman7.png"
 image corentin = "man7.png"
 image jeanne = "woman4.png"
+image infirmierJoel = "man7.png"
 
 
 # Déclarez les personnages utilisés dans le jeu.
@@ -96,6 +99,7 @@ define danielle = Character('Danielle', color="#c8ffc8")
 define sabrina = Character('Sabrina', color="#c8ffc8")
 define toutlemonde = Character('Tout le monde', color="#c8ffc8")
 define corentin = Character('Corentin', color="#c8ffc8")
+define infirmierJoel = Character('Infirmier Joël', color="#c8ffc8")
 
 
 define nvlmelodie = Character('Mélodie', kind=nvl,  what_prefix="{cps=100}", color="#c8ffc8")

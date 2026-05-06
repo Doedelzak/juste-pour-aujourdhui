@@ -266,6 +266,12 @@ pause 1.0
 
 scene bg black with dissolve
 
+"Ils m'ont ensuite fait sortir de la salle et ont accueilli le patient suivant."
+"Une heure après, une ambulance est venue me chercher.{w} Elle m'a conduite à ce fameux centre, couchée sur un brancard."
+
+
+pause 2.0
+
 call a1s01 from _a1s01
 
 return
