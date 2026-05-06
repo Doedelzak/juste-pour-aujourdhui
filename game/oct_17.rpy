@@ -139,7 +139,7 @@
 # hide melodie
 # "Je balaie le réfectoire des yeux et, surprise, j'y vois Florine cachée seule sur une table tout au fond."
 # show melodie at left
-# melodie "Hé, tu connais Florine ?{w} Viens, on va s'assoir avec elle."
+# melodie "Hé, tu connais Florine ?{w} Viens, on va s'asseoir avec elle."
 # hide melodie
 # "Laurent n'ajoute rien et me suit."
 
@@ -351,7 +351,7 @@
 # drmignonbrenet "Le système de récompense est un mécanisme du cerveau humain.{w} On le retrouve chez tous les mammifères.{w} En particulier les souris qui, encore une fois, sont les principales malheureuses à subir nos expériences sur le sujet."
 # drmignonbrenet "De quelle récompense on parle ?{w} En vérité, c'est exactement la même que le chocolat que vous receviez quand vous étiez gosses et que vous aviez été sage."
 # drmignonbrenet "Je veux le chocolat parce qu'il est bon.{w} Pour l'obtenir, je dois être sage.{w} Et donc, quand je suis sage, je m'attends à recevoir un chocolat."
-# drmignonbrenet "Plus ce scénario se répète, plus il gagne en force.{w} Après 10 chocolat reçus, je suis vraiment sûr que la 11ème fois que je serai sage quand on me le demande, j'obtiendrai un chocolat."
+# drmignonbrenet "Plus ce scénario se répète, plus il gagne en force.{w} Après 10 chocolats reçus, je suis vraiment sûr que la 11ème fois que je serai sage quand on me le demande, j'obtiendrai un chocolat."
 # drmignonbrenet "En fait, assez rapidement, la bonté du chocolat devient accessoire.{w} Si c'est un chocolat premier prix dont le goût n'a plus rien à voir avec le goût du chocolat, ce n'est pas grave.{w} Ce qui importe, c'est de l'obtenir !"
 # drmignonbrenet "Au départ, on voulait le chocolat pour se régaler.{w} Maintenant, on veut le chocolat et c'est tout.{w} Parce qu'on a été sage et donc qu'on le mérite."
 # drmignonbrenet "C'est ça, la récompense.{w} Et vous tous, ici présents, êtes ici parce qu'elle a fini par devenir votre seule raison de vivre."

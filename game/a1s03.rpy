@@ -60,8 +60,8 @@ hide text with dissolve
 
 pause 1.0
 
-"La mise en page est curieusement travaillée et le papier est plastifié.{w} On croirait la brochure d'un hôtel, ce qui est tout de même caucasse."
-"Les premières pages ventent les bons résultats de l'établissement et ressemblent à de la publicité à peine déguisée.{w} De nombreuses photos encadrent le texte de belles vues ensoleillées du bâtiment, qui s'estompent en dégradés doux et bleutés."
+"La mise en page est curieusement travaillée et le papier est plastifié.{w} On croirait la brochure d'un hôtel, ce qui est tout de même cocasse."
+"Les premières pages vantent les bons résultats de l'établissement et ressemblent à de la publicité à peine déguisée.{w} De nombreuses photos encadrent le texte de belles vues ensoleillées du bâtiment, qui s'estompent en dégradés doux et bleutés."
 "La liste des maladies prises en charge est assez courte et précise.{w} Apparemment, c'est un centre connu pour ses thérapies ciblées sur la dépression, les addictions et la schizophrénie."
 "J'y vois la mention du « Modèle Minnesota » et, curieuse, je prends mon téléphone pour aller rechercher ce que c'est..."
 "... mais je découvre que le réseau est affreux, ici.{w} Après 5 minutes à attendre le résultat de ma recherche, je soupire et repose mon téléphone, agacée."
@@ -95,7 +95,7 @@ pause 1.0
 
 pause 1.0
 
-"{i}Les patients internés dans cet établissements sont des personnes en état de grande fragilité.{w} Par conséquent, il est interdit d'établir des relations affectives entre patients, afin de ne pas perturber leur rétablissement.{/i}"
+"{i}Les patients internés dans cet établissement sont des personnes en état de grande fragilité.{w} Par conséquent, il est interdit d'établir des relations affectives entre patients, afin de ne pas perturber leur rétablissement.{/i}"
 "{i}Il est également interdit d'avoir des rapports sexuels au sein de l'établissement.{/i}"
 
 pause 1.0
@@ -220,12 +220,12 @@ drjovia "Bonjour Mélodie.{w} Installez-vous, mettez-vous à l'aise."
 
 hide drjovia with dissolve
 
-"On ne peut pas dire que je suis à l'aise, non.{w} J'ai l'impression que dans les prochaines minutes, on va juger si je mérite de rester ici, ou si j'ai simplement fait un gros caprice et qu'on va gentiement me renvoyer chez moi."
+"On ne peut pas dire que je suis à l'aise, non.{w} J'ai l'impression que dans les prochaines minutes, on va juger si je mérite de rester ici, ou si j'ai simplement fait un gros caprice et qu'on va gentiment me renvoyer chez moi."
 "Je suis envahie d'un sentiment d'imposture que je ne connais que trop bien.{w} Il y a cette petite voix pernicieuse qui me répète que je n'ai pas ma place ici."
 
 show drjovia at center with dissolve
 
-"Pourtant, le Dr. Jovia m'accueille avec un sourire chalheureux.{w} C'est une femme radieuse, comme touchée par quelque chose de divin.{w} Elle semble hors de ce monde."
+"Pourtant, le Dr. Jovia m'accueille avec un sourire chaleureux.{w} C'est une femme radieuse, comme touchée par quelque chose de divin.{w} Elle semble hors de ce monde."
 
 drjovia "Mélodie, quel joli prénom !"
 show melodie at left

@@ -13,7 +13,7 @@ scene bg salle depression jour with dissolve
 pause 1.0
 
 "Dans la salle, nous ne sommes que 5 patients.{w} Je suis la dernière arrivée.{w} Chacun des 4 autres patients sont installés de sorte à rester isoler les uns des autres."
-"Je trouve ça un peu nul, alors je fais exprès de m'installer juste à côté de l'un d'eux, un quincagénaire poivre et sel au regard vague.{w} Il me fait un petit sourire quand je m'assieds, que je lui rends avec étonnement."
+"Je trouve ça un peu nul, alors je fais exprès de m'installer juste à côté de l'un d'eux, un quinquagénaire poivre et sel au regard vague.{w} Il me fait un petit sourire quand je m'assieds, que je lui rends avec étonnement."
 "La thérapeute n'est pas encore présente.{w} ll reigne un silence de mort.{w} Ma foi, à quoi je m'attendais ?{w} C'est une séance pour dépressifs."
 "Mon voisin me tend sa main."
 
@@ -52,7 +52,7 @@ pause 1.0
 
 "C'est une longue séance, complètement soporifique.{w} La thérapeute est d'une mollesse insupportable et c'est à se demander si elle n'est pas dépressive elle-même."
 "Deux heures, c'est long.{w} Pendant ces deux heures, la seule chose qu'elle a tenté de nous apprendre, c'est que les dépressifs portent des lunettes."
-"L'idée est simple : comme avec des lunettes de soleil, le regard du dépressif passe par un filtre et en ressort transformée.{w} Le filtre du dépressif n'est pas un filtre de couleur, mais d'émotion."
+"L'idée est simple : comme avec des lunettes de soleil, le regard du dépressif passe par un filtre et en ressort transformé.{w} Le filtre du dépressif n'est pas un filtre de couleur, mais d'émotion."
 "Toute émotion est perçue un cran plus négative qu'elle ne l'est en réalité.{w} Pendant un temps qui a semblé une éternité, elle nous a présenté divers portraits photo et nous a demandé ce que ces personnes ressentaient."
 "On a bien vite vu que, chaque fois, on avait tendance à dramatiser.{w} Un regard neutre était perçu comme triste.{w} Un regard triste était perçu comme désespéré.{w} Un sourire sincère était en fait moqueur."
 "C'était intéressant, mais deux heures entières comme ça ?!{w} Je n'en pouvais plus."
@@ -121,7 +121,7 @@ pause 1.0
 
 laurent "Attends...{w} T'es bien inscrite au parcours addicto ?"
 show melodie at left
-melodie "Euh, non, je crois pas.{w} Le parcous dépression, ça oui."
+melodie "Euh, non, je crois pas.{w} Le parcours dépression, ça oui."
 hide melodie
 laurent "Aaaaah, tout s'explique."
 laurent "Tu ne pourras pas assister à mon récit de vie, alors.{w} Dommage."

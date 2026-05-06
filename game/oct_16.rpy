@@ -58,8 +58,8 @@
 
 # pause 1.0
 
-# "La mise en page est curieusement travaillée et le papier est plastifié.{w} On croirait la brochure d'un hôtel, ce qui est tout de même caucasse."
-# "Les premières pages ventent les bons résultats de l'établissement et ressemblent à de la publicité à peine déguisée.{w} De nombreuses photos encadrent le texte de belles vues ensoleillées du bâtiment, qui s'estompent en dégradés doux et bleutés."
+# "La mise en page est curieusement travaillée et le papier est plastifié.{w} On croirait la brochure d'un hôtel, ce qui est tout de même cocasse."
+# "Les premières pages vantent les bons résultats de l'établissement et ressemblent à de la publicité à peine déguisée.{w} De nombreuses photos encadrent le texte de belles vues ensoleillées du bâtiment, qui s'estompent en dégradés doux et bleutés."
 # "La liste des maladies prises en charge est assez courte et précise.{w} Apparemment, c'est un centre connu pour ses thérapies ciblées sur la dépression, les addictions et la schizophrénie."
 # "J'y vois la mention du « Modèle Minnesota » et, curieuse, je prends mon téléphone pour aller rechercher ce que c'est..."
 # "... mais je découvre que le réseau est affreux, ici.{w} Après 5 minutes à attendre le résultat de ma recherche, je soupire et repose mon téléphone, agacée."
@@ -93,7 +93,7 @@
 
 # pause 1.0
 
-# "{i}Les patients internés dans cet établissements sont des personnes en état de grande fragilité.{w} Par conséquent, il est interdit d'établir des relations affectives entre patients, afin de ne pas perturber leur rétablissement.{/i}"
+# "{i}Les patients internés dans cet établissement sont des personnes en état de grande fragilité.{w} Par conséquent, il est interdit d'établir des relations affectives entre patients, afin de ne pas perturber leur rétablissement.{/i}"
 # "{i}Il est également interdit d'avoir des rapports sexuels au sein de l'établissement.{/i}"
 
 # pause 1.0
@@ -218,12 +218,12 @@
 
 # hide drjovia with dissolve
 
-# "On ne peut pas dire que je suis à l'aise, non.{w} J'ai l'impression que dans les prochaines minutes, on va juger si je mérite de rester ici, ou si j'ai simplement fait un gros caprice et qu'on va gentiement me renvoyer chez moi."
+# "On ne peut pas dire que je suis à l'aise, non.{w} J'ai l'impression que dans les prochaines minutes, on va juger si je mérite de rester ici, ou si j'ai simplement fait un gros caprice et qu'on va gentiment me renvoyer chez moi."
 # "Je suis envahie d'un sentiment d'imposture que je ne connais que trop bien.{w} Il y a cette petite voix pernicieuse qui me répète que je n'ai pas ma place ici."
 
 # show drjovia at center with dissolve
 
-# "Pourtant, le Dr. Jovia m'accueille avec un sourire chalheureux.{w} C'est une femme radieuse, comme touchée par quelque chose de divin.{w} Elle semble hors de ce monde."
+# "Pourtant, le Dr. Jovia m'accueille avec un sourire chaleureux.{w} C'est une femme radieuse, comme touchée par quelque chose de divin.{w} Elle semble hors de ce monde."
 
 # drjovia "Mélodie, quel joli prénom !"
 # show melodie at left
@@ -765,7 +765,7 @@
 # pause 1.0
 
 # "Dans la salle, nous ne sommes que 5 patients.{w} Je suis la dernière arrivée.{w} Chacun des 4 autres patients sont installés de sorte à rester isoler les uns des autres."
-# "Je trouve ça un peu nul, alors je fais exprès de m'installer juste à côté de l'un d'eux, un quincagénaire poivre et sel au regard vague.{w} Il me fait un petit sourire quand je m'assieds, que je lui rends avec étonnement."
+# "Je trouve ça un peu nul, alors je fais exprès de m'installer juste à côté de l'un d'eux, un quinquagénaire poivre et sel au regard vague.{w} Il me fait un petit sourire quand je m'assieds, que je lui rends avec étonnement."
 # "La thérapeute n'est pas encore présente.{w} ll reigne un silence de mort.{w} Ma foi, à quoi je m'attendais ?{w} C'est une séance pour dépressifs."
 # "Mon voisin me tend sa main."
 
@@ -804,7 +804,7 @@
 
 # "C'est une longue séance, complètement soporifique.{w} La thérapeute est d'une mollesse insupportable et c'est à se demander si elle n'est pas dépressive elle-même."
 # "Deux heures, c'est long.{w} Pendant ces deux heures, la seule chose qu'elle a tenté de nous apprendre, c'est que les dépressifs portent des lunettes."
-# "L'idée est simple : comme avec des lunettes de soleil, le regard du dépressif passe par un filtre et en ressort transformée.{w} Le filtre du dépressif n'est pas un filtre de couleur, mais d'émotion."
+# "L'idée est simple : comme avec des lunettes de soleil, le regard du dépressif passe par un filtre et en ressort transformé.{w} Le filtre du dépressif n'est pas un filtre de couleur, mais d'émotion."
 # "Toute émotion est perçue un cran plus négative qu'elle ne l'est en réalité.{w} Pendant un temps qui a semblé une éternité, elle nous a présenté divers portraits photo et nous a demandé ce que ces personnes ressentaient."
 # "On a bien vite vu que, chaque fois, on avait tendance à dramatiser.{w} Un regard neutre était perçu comme triste.{w} Un regard triste était perçu comme désespéré.{w} Un sourire sincère était en fait moqueur."
 # "C'était intéressant, mais deux heures entières comme ça ?!{w} Je n'en pouvais plus."
@@ -873,7 +873,7 @@
 
 # laurent "Attends...{w} T'es bien inscrite au parcours addicto ?"
 # show melodie at left
-# melodie "Euh, non, je crois pas.{w} Le parcous dépression, ça oui."
+# melodie "Euh, non, je crois pas.{w} Le parcours dépression, ça oui."
 # hide melodie
 # laurent "Aaaaah, tout s'explique."
 # laurent "Tu ne pourras pas assister à mon récit de vie, alors.{w} Dommage."

@@ -260,7 +260,7 @@ stop music fadeout 5.0
 hide gentilpsy with dissolve
 hide mechantpsy with dissolve
 
-"Il arrête net ses prises de notes, après avoir fait un geste affirmé qui ressemblait à une signature.{w} Il me rappelle ma collègue au boulot quand elle clotûre un dossier."
+"Il arrête net ses prises de notes, après avoir fait un geste affirmé qui ressemblait à une signature.{w} Il me rappelle ma collègue au boulot quand elle clôture un dossier."
 
 pause 1.0
 

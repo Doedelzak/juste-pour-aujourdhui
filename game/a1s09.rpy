@@ -19,7 +19,7 @@ show melodie at left
 melodie "Hé ouais..."
 hide melodie
 
-"Il change subitement d'air et je comprends qu'il imite Mr Selivo.{w} Il me tend énergiquement la main et dit d'une voix exagérement grave :"
+"Il change subitement d'air et je comprends qu'il imite Mr Selivo.{w} Il me tend énergiquement la main et dit d'une voix exagérément grave :"
 
 laurent "Bienvenue parmi nous !!!"
 
@@ -57,7 +57,7 @@ mmenguyen "Excusez-moi du retard."
 
 mmenguyen "Je vois que tout le monde est à l'heure.{w} C'est bien."
 
-"Elle fouille dans son sac et en sort un vieux carnet qui part en lambeaux.{w} Elle l'ouvre à une page en plein milieu, où je peux apercevoir des griffonages dans tous les sens semblant sortir d'un cerveau complètement fou."
+"Elle fouille dans son sac et en sort un vieux carnet qui part en lambeaux.{w} Elle l'ouvre à une page en plein milieu, où je peux apercevoir des griffonnages dans tous les sens semblant sortir d'un cerveau complètement fou."
 
 mmenguyen "Bien.{w} Commençons."
 
@@ -272,7 +272,7 @@ sylvie "..."
 
 sylvie "Je te remercie, toi aussi, Aurélie.{w} Pour ton courage, et pour rester parmi nous.{w} Je suis sûre que tu vas t'en sortir.{w} Tu es une battante."
 
-"Tout le monde regarde à nouveau Aurélie, qui lève ses yeux mouillés pour la première fois.{w} Des sourires chalheureux apparaissent."
+"Tout le monde regarde à nouveau Aurélie, qui lève ses yeux mouillés pour la première fois.{w} Des sourires chaleureux apparaissent."
 "C'est à ce moment qu'enfin, comme un soulagement, elle se met à fondre en larmes."
 
 hide sylvie with dissolve

@@ -258,7 +258,7 @@
 # hide gentilpsy with dissolve
 # hide mechantpsy with dissolve
 
-# "Il arrête net ses prises de notes, après avoir fait un geste affirmé qui ressemblait à une signature.{w} Il me rappelle ma collègue au boulot quand elle clotûre un dossier."
+# "Il arrête net ses prises de notes, après avoir fait un geste affirmé qui ressemblait à une signature.{w} Il me rappelle ma collègue au boulot quand elle clôture un dossier."
 
 # pause 1.0
 
@@ -331,7 +331,7 @@
 
 # pause 1.0
 
-# "Elle se dirige dans la direction opposée au portail, où se trouve un imposant bâtiment aussi blanc que sa blouse.{w} C'est un grand bloc austère de 3 étages, en forme de L, peut-être un peu plus chalheureux qu'un hôpital.{w} Mais, évidemment, ce n'est pas un hôtel non plus."
+# "Elle se dirige dans la direction opposée au portail, où se trouve un imposant bâtiment aussi blanc que sa blouse.{w} C'est un grand bloc austère de 3 étages, en forme de L, peut-être un peu plus chaleureux qu'un hôpital.{w} Mais, évidemment, ce n'est pas un hôtel non plus."
 # "Je la suis, oubliant rapidement notre échange et attendant avec impatience de me retrouver au chaud.{w} Je crois que je n'ai jamais connu un mois d'octobre aussi froid."
 
 # pause 1.0
@@ -360,7 +360,7 @@
 # scene bg devant cantine nuit with dissolve
 
 # "Quand j'arrive devant le réfectoire, je remarque qu'une longue queue attend pour le repas.{w} Je soupire d'avance."
-# "Je me demande pourquoi ils ne nous laissent pas entrer nous assoir en attendant.{w} Mais, très vite, je remarque que la salle est ouverte.{w} Les patients entrent seuls les uns après les autres, à intervalle régulier."
+# "Je me demande pourquoi ils ne nous laissent pas entrer nous asseoir en attendant.{w} Mais, très vite, je remarque que la salle est ouverte.{w} Les patients entrent seuls les uns après les autres, à intervalle régulier."
 # "Devant la porte, deux infirmiers sont postés avec une mini-table roulante contenant de multiples étages de matériel médical et de médicaments."
 # "Avant d'entrer, donc, chaque patient est tenu de prendre son traitement.{w} J'ai un petit rictus en me disant que, ça y est, je suis bien chez les fous."
 
@@ -414,11 +414,11 @@
 # scene bg cantine nuit with dissolve
 
 # "Le repas est le même pour tout le monde, sauf ceux qui ont un régime spécial, comme les musulmans ou les végétariens."
-# "En vérité, le plat végétarien, c'est-à-dire des frites, a l'air bien meilleur que le plat standard, un veau où il est bien difficile de discerner la viandre de la sauce, avec du riz."
+# "En vérité, le plat végétarien, c'est-à-dire des frites, a l'air bien meilleur que le plat standard, un veau où il est bien difficile de discerner la viande de la sauce, avec du riz."
 # "Mais quand j'ai demandé le plat végétarien, on m'a répondu qu'il fallait avoir déclaré son régime spécial à son thérapeute, donc j'ai pris le veau."
 # "L'entrée : des endives aux noix.{w} Je fais partie de ces rares personnes qui aiment les endives, mais elles ont une sacrée sale gueule.{w} Les noix se font bien rares, également."
 # "Le tout est servi dans des barquettes sous vide, sauf le dessert, une portion de fromage emballée individuellement."
-# "J'embarque le tout sur mon plateau avec un verre, une assiettes et des couverts, et je me dirige vers la salle à manger."
+# "J'embarque le tout sur mon plateau avec un verre, une assiette et des couverts, et je me dirige vers la salle à manger."
 
 # pause 1.0
 

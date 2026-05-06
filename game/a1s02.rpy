@@ -18,7 +18,7 @@ pause 1.0
 scene bg devant cantine nuit with dissolve
 
 "Quand j'arrive devant le réfectoire, je remarque qu'une longue queue attend pour le repas.{w} Je soupire d'avance."
-"Je me demande pourquoi ils ne nous laissent pas entrer nous assoir en attendant.{w} Mais, très vite, je remarque que la salle est ouverte.{w} Les patients entrent seuls les uns après les autres, à intervalle régulier."
+"Je me demande pourquoi ils ne nous laissent pas entrer nous asseoir en attendant.{w} Mais, très vite, je remarque que la salle est ouverte.{w} Les patients entrent seuls les uns après les autres, à intervalle régulier."
 "Devant la porte, deux infirmiers sont postés avec une mini-table roulante contenant de multiples étages de matériel médical et de médicaments."
 "Avant d'entrer, donc, chaque patient est tenu de prendre son traitement.{w} J'ai un petit rictus en me disant que, ça y est, je suis bien chez les fous."
 
@@ -72,11 +72,11 @@ pause 1.0
 scene bg cantine nuit with dissolve
 
 "Le repas est le même pour tout le monde, sauf ceux qui ont un régime spécial, comme les musulmans ou les végétariens."
-"En vérité, le plat végétarien, c'est-à-dire des frites, a l'air bien meilleur que le plat standard, un veau où il est bien difficile de discerner la viandre de la sauce, avec du riz."
+"En vérité, le plat végétarien, c'est-à-dire des frites, a l'air bien meilleur que le plat standard, un veau où il est bien difficile de discerner la viande de la sauce, avec du riz."
 "Mais quand j'ai demandé le plat végétarien, on m'a répondu qu'il fallait avoir déclaré son régime spécial à son thérapeute, donc j'ai pris le veau."
 "L'entrée : des endives aux noix.{w} Je fais partie de ces rares personnes qui aiment les endives, mais elles ont une sacrée sale gueule.{w} Les noix se font bien rares, également."
 "Le tout est servi dans des barquettes sous vide, sauf le dessert, une portion de fromage emballée individuellement."
-"J'embarque le tout sur mon plateau avec un verre, une assiettes et des couverts, et je me dirige vers la salle à manger."
+"J'embarque le tout sur mon plateau avec un verre,  et des couverts, et je me dirige vers la salle à manger."
 
 pause 1.0
 

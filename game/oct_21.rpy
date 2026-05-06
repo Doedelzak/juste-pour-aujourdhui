@@ -146,7 +146,7 @@
 # melodie "Hé ouais..."
 # hide melodie
 
-# "Il change subitement d'air et je comprends qu'il imite Mr Selivo.{w} Il me tend énergiquement la main et dit d'une voix exagérement grave :"
+# "Il change subitement d'air et je comprends qu'il imite Mr Selivo.{w} Il me tend énergiquement la main et dit d'une voix exagérément grave :"
 
 # laurent "Bienvenue parmi nous !!!"
 
@@ -184,7 +184,7 @@
 
 # mmenguyen "Je vois que tout le monde est à l'heure.{w} C'est bien."
 
-# "Elle fouille dans son sac et en sort un vieux carnet qui part en lambeaux.{w} Elle l'ouvre à une page en plein milieu, où je peux apercevoir des griffonages dans tous les sens semblant sortir d'un cerveau complètement fou."
+# "Elle fouille dans son sac et en sort un vieux carnet qui part en lambeaux.{w} Elle l'ouvre à une page en plein milieu, où je peux apercevoir des griffonnages dans tous les sens semblant sortir d'un cerveau complètement fou."
 
 # mmenguyen "Bien.{w} Commençons."
 
@@ -399,7 +399,7 @@
 
 # sylvie "Je te remercie, toi aussi, Aurélie.{w} Pour ton courage, et pour rester parmi nous.{w} Je suis sûre que tu vas t'en sortir.{w} Tu es une battante."
 
-# "Tout le monde regarde à nouveau Aurélie, qui lève ses yeux mouillés pour la première fois.{w} Des sourires chalheureux apparaissent."
+# "Tout le monde regarde à nouveau Aurélie, qui lève ses yeux mouillés pour la première fois.{w} Des sourires chaleureux apparaissent."
 # "C'est à ce moment qu'enfin, comme un soulagement, elle se met à fondre en larmes."
 
 # hide sylvie with dissolve
@@ -439,7 +439,7 @@
 # "La réunion a lieu dans une école primaire.{w} Je me disais que les Alcooliques Anonymes étaient une assez grosse association pour disposer de ses propres locaux, mais ce n'est peut-être pas le cas à Melun."
 # "Nous patientons sur le pas de la porte, silencieusement.{w} Il fait froid et la brise n'arrange pas les choses."
 # "Laurent fume une clope.{w} Anne nous tourne le dos à l'écart et observe, pensive, les arbres sans feuilles de la cour de récréation vide.{w} Chris fait les cent pas pour supporter le froid et la fatigue."
-# "A part Chris, Anne, Laurent et moi, tous les visages me sont inconnus.{w} Ce sont des habitants du coin, qui ne sont pas des patients du CPM.{w} Des \"vrais\" alcoolques anonymes, comme dans les films."
+# "A part Chris, Anne, Laurent et moi, tous les visages me sont inconnus.{w} Ce sont des habitants du coin, qui ne sont pas des patients du CPM.{w} Des \"vrais\" alcooliques anonymes, comme dans les films."
 # "La porte est finalement ouverte de l'intérieur par une femme de la cinquantaine, cheveux strictement attachés en chignon, habillée de vêtements amples et confortables aux couleurs pastel."
 
 # show danielle at center with dissolve
@@ -471,7 +471,7 @@
 
 # "La plupart des tables de la salle ont été placées contre les murs, et les chaises sont empilées les unes sur les autres dans les coins.{w} Danielle, hâtivement, déplace tables et chaises et, petit à petit, d'autres personnes lui viennent en aide."
 # "Je reste là, un peu démunie, ne sachant trop ce qu'il se passe et ce que je pouvais bien faire pour aider moi aussi."
-# "Oh, j'ai compris : le but est de former un carré de tables au centre de la pièce, avec des chaises disposées pour qu'on puisse tous s'assoir les uns en face des autres.{w} Je m'empresse de me mettre à l'oeuvre, mais c'est trop tard.{w} Tout est déjà installé. Je place timidement une chaise devant la dernière place vide et je m'y assieds."
+# "Oh, j'ai compris : le but est de former un carré de tables au centre de la pièce, avec des chaises disposées pour qu'on puisse tous s'asseoir les uns en face des autres.{w} Je m'empresse de me mettre à l'oeuvre, mais c'est trop tard.{w} Tout est déjà installé. Je place timidement une chaise devant la dernière place vide et je m'y assieds."
 # "Danielle, qui avait momentanément disparu, revient vers nous avec une bouilloire fumante et une boîte de café soluble premier prix.{w} Elle est suivie par une autre femme un peu plus jeune, blonde et très mince, qui apporte deux paquets de bonbons premier prix eux aussi, marque blanche."
 
 # show danielle at center with dissolve

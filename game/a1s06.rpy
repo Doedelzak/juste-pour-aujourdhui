@@ -141,7 +141,7 @@ melodie "Ça roule."
 hide melodie
 "Je balaie le réfectoire des yeux et, surprise, j'y vois Florine cachée seule sur une table tout au fond."
 show melodie at left
-melodie "Hé, tu connais Florine ?{w} Viens, on va s'assoir avec elle."
+melodie "Hé, tu connais Florine ?{w} Viens, on va s'asseoir avec elle."
 hide melodie
 "Laurent n'ajoute rien et me suit."
 
